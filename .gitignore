@@ -1,0 +1,28 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+
+# IDE and generated project files
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Local tooling hooks, not part of the Unity project
+.github/modernize/
